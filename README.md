@@ -6,7 +6,7 @@
 ###
 - 🌱 I’m currently learning Generative AI *NLP , Computer vision*
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sharjeeyl](https://github.com/Sharjeeyl)
+- 👨‍💻 All of my projects are available at [https://github.com/MrYousaf128](https://github.com/MrYousaf128)
 
 - 💬 Ask me about *AI*
 
@@ -17,18 +17,18 @@
 - <div align="left">
   <h3 align="left">🔥  Social :</h3>
  <p align="left">
-<a href="https://twitter.com/sharjeeljaved95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharjeeljaved95" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sharjeeyl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharjeeyl" height="30" width="40" /></a>
-<a href="https://fb.com/sharjeeldd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sharjeeldd" height="30" width="40" /></a>
-<a href="https://instagram.com/sharjeeyl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharjeeyl" height="30" width="40" /></a>
+<a href="https://twitter.com/sharjeeljaved95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MrYousaf128" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sharjeeyl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MrYousaf128" height="30" width="40" /></a>
+<a href="https://fb.com/sharjeeldd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="MrYousaf128" height="30" width="40" /></a>
+<a href="https://instagram.com/sharjeeyl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MrYousaf128" height="30" width="40" /></a>
 
 </p>
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sharjeeyl&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sharjeeyl&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sharjeeyl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=MrYousaf128&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MrYousaf128&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrYousaf128&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ###
 
