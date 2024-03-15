@@ -10,7 +10,7 @@
 
 - 💬 Ask me about *AI*
 
-- 📫 How to reach me *sharjeeljaved95@gmail.com*
+- 📫 How to reach me *yousafqasim915@gmail.com*
 
 - ⚡ Fun fact *I am lazy ambitious Guy*
   
@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/sharjeeyl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharjeeyl" height="30" width="40" /></a>
 <a href="https://fb.com/sharjeeldd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sharjeeldd" height="30" width="40" /></a>
 <a href="https://instagram.com/sharjeeyl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharjeeyl" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@sharjeeljaved95/featured)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sharjeel javed" height="30" width="40" /></a>
+
 </p>
 </div>
 
